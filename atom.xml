@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小米科技</title>
+  <title>小米科技有限责任公司</title>
   
   <subtitle>专业审核团队</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xiaomiaudit.xyz/"/>
-  <updated>2020-04-30T08:54:50.600Z</updated>
+  <updated>2020-05-07T10:34:26.138Z</updated>
   <id>https://xiaomiaudit.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://xiaomiaudit.xyz/2020/04/30/hello-world/"/>
-    <id>https://xiaomiaudit.xyz/2020/04/30/hello-world/</id>
-    <published>2020-04-30T10:44:35.173Z</published>
-    <updated>2020-04-30T08:54:50.600Z</updated>
+    <title>团队介绍</title>
+    <link href="https://xiaomiaudit.xyz/2020/05/07/blog-open-source/"/>
+    <id>https://xiaomiaudit.xyz/2020/05/07/blog-open-source/</id>
+    <published>2020-05-07T10:30:30.000Z</published>
+    <updated>2020-05-07T10:34:26.138Z</updated>
     
     <summary type="html">
     
@@ -29,42 +29,20 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;简短介绍&quot;&gt;&lt;a href=&quot;#简短介绍&quot; class=&quot;headerlink&quot; title=&quot;简短介绍&quot;&gt;&lt;/a&gt;简短介绍&lt;/h1&gt;&lt;p&gt;待续…&lt;/p&gt;
+&lt;script&gt;
+       
         
       
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>博客开源</title>
-    <link href="https://xiaomiaudit.xyz/2019/08/27/blog-open-source/"/>
-    <id>https://xiaomiaudit.xyz/2019/08/27/blog-open-source/</id>
-    <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2019-10-03T12:57:54.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot; title=&quot;效果演示&quot;&gt;&lt;/a&gt;效果演示&lt;/h1&gt;&lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-      <category term="软件安装与配置" scheme="https://xiaomiaudit.xyz/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+      <category term="团队介绍" scheme="https://xiaomiaudit.xyz/categories/%E5%9B%A2%E9%98%9F%E4%BB%8B%E7%BB%8D/"/>
     
     
-      <category term="Hexo" scheme="https://xiaomiaudit.xyz/tags/Hexo/"/>
+      <category term="介绍" scheme="https://xiaomiaudit.xyz/tags/%E4%BB%8B%E7%BB%8D/"/>
     
-      <category term="Github" scheme="https://xiaomiaudit.xyz/tags/Github/"/>
-    
-      <category term="博客" scheme="https://xiaomiaudit.xyz/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="团队" scheme="https://xiaomiaudit.xyz/tags/%E5%9B%A2%E9%98%9F/"/>
     
   </entry>
   
